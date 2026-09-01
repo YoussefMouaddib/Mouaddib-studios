@@ -41,7 +41,7 @@ export default function Navbar() {
       <div className="mx-auto max-w-7xl px-6 lg:px-10 h-16 md:h-20 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-3 group">
           <div className="relative w-9 h-9 rounded-xl overflow-hidden bg-gradient-to-br from-azure-500 to-azure-600 flex items-center justify-center font-display text-ink-950 text-lg font-semibold shadow-glow">
-            Y
+            M
           </div>
           <div className="leading-tight">
             <div className="font-display text-base md:text-lg tracking-tight">
