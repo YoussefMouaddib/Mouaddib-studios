@@ -45,10 +45,10 @@ export default function Navbar() {
           </div>
           <div className="leading-tight">
             <div className="font-display text-base md:text-lg tracking-tight">
-              Youssef <span className="text-azure-400">Studio</span>
+              Mouaddib <span className="text-azure-400">Studio</span>
             </div>
             <div className="text-[10px] uppercase tracking-[0.25em] text-white/50">
-              Web · Booking · AI
+              Web · Booking · Social Media
             </div>
           </div>
         </Link>
