@@ -20,7 +20,7 @@ const tiers = [
     ],
     cta: "Book This Package",
     popular: false,
-    paymentLink: "https://buy.stripe.com/REPLACE_BASIC",
+    paymentLink: "https://buy.stripe.com/test_8x26oH6046rm6Lw1LL1wY00",
   },
   {
     name: "Website + Booking System",
@@ -36,7 +36,7 @@ const tiers = [
     ],
     cta: "Book This Package",
     popular: true,
-    paymentLink: "https://buy.stripe.com/REPLACE_BOOKING",
+    paymentLink: "https://buy.stripe.com/test_dRm28r1JO172gm66211wY01",
   },
   {
     name: "Website + AI Automation",
@@ -52,7 +52,7 @@ const tiers = [
     ],
     cta: "Book This Package",
     popular: false,
-    paymentLink: "https://buy.stripe.com/REPLACE_AUTOMATION",
+    paymentLink: "https://buy.stripe.com/test_9B6aEX9cg6rm0n82PP1wY02",
   },
 ];
  
