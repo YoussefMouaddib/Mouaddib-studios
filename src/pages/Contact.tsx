@@ -27,7 +27,7 @@ export default function Contact() {
     const body = encodeURIComponent(
       `Name: ${form.name}\nBusiness: ${form.business}\nPhone: ${form.phone}\nEmail: ${form.email}\nPackage: ${form.pkg}\n\nNotes:\n${form.notes}`,
     );
-    window.location.href = `mailto:hello@youssef.studio?subject=${encodeURIComponent(
+    window.location.href = `mailto:youssefmouaddib11@gmail.com?subject=${encodeURIComponent(
       "New project inquiry — " + form.name,
     )}&body=${body}`;
     setSubmitted(true);
