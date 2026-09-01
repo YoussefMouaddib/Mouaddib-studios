@@ -154,7 +154,7 @@ export default function Home() {
         </div>
       </Section>
 
-      {/* WHY YOUSSEF — with video background */}
+      {/* WHY Mouaddib — with video background */}
       <section className="relative py-28 overflow-hidden">
         <VideoBackground overlayOpacity={0.85} zoom={false} />
         <div className="relative z-10 mx-auto max-w-7xl px-6 lg:px-10">
@@ -165,7 +165,7 @@ export default function Home() {
               viewport={{ once: true, margin: "-80px" }}
               transition={{ duration: 0.8 }}
             >
-              <div className="eyebrow">Why work with Youssef</div>
+              <div className="eyebrow">Why work with the Mouaddibs</div>
               <h2 className="mt-3 h-display text-4xl md:text-5xl">
                 Big-agency quality.{" "}
                 <span className="text-azure-400">Personal touch.</span>
