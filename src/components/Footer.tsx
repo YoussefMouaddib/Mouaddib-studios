@@ -11,7 +11,7 @@ export default function Footer() {
               Y
             </div>
             <div className="font-display text-lg">
-              Youssef <span className="text-azure-400">Studio</span>
+              Mouaddib <span className="text-azure-400">Studio</span>
             </div>
           </div>
           <p className="mt-5 text-white/60 text-sm leading-relaxed">
@@ -70,11 +70,11 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="mailto:youssefmouaddib11@gmail.com"
+                href="mailto:efmouaddib11@gmail.com"
                 className="inline-flex items-center gap-2 text-white/70 hover:text-white"
               >
                 <Mail size={14} className="text-azure-400" />{" "}
-                youssefmouaddib11@gmail.com
+                efmouaddib11@gmail.com
               </a>
             </li>
           </ul>
@@ -83,7 +83,7 @@ export default function Footer() {
       <div className="border-t border-white/5">
         <div className="mx-auto max-w-7xl px-6 lg:px-10 py-6 flex flex-col md:flex-row justify-between gap-3 text-xs text-white/40">
           <div>
-            © {new Date().getFullYear()} Youssef Studio. All rights reserved.
+            © {new Date().getFullYear()} Mouaddib Studio. All rights reserved.
           </div>
           <div>Designed & built in-house. Premium results, plain English.</div>
         </div>
